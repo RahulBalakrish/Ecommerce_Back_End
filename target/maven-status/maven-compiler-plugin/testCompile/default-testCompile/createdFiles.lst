@@ -1,0 +1,15 @@
+com\infy\ekart\service\test\SellerOrderServiceTest.class
+com\infy\ekart\service\test\CustomerServiceTest.class
+com\infy\ekart\validator\test\SellerProductValidatorTest.class
+com\infy\ekart\dao\test\SellerDAOTest.class
+com\infy\ekart\dao\test\CustomerCartDAOTest.class
+com\infy\ekart\validator\test\CustomerValidatorTest.class
+com\infy\ekart\dao\test\SellerProductDAOTest.class
+com\infy\ekart\dao\test\SellerOrderDAOTest.class
+com\infy\ekart\service\test\SellerServiceTest.class
+com\infy\ekart\dao\test\CustomerDAOTest.class
+com\infy\ekart\dao\test\CustomerProductDAOTest.class
+com\infy\ekart\service\test\CustomerCartServiceTest.class
+com\infy\ekart\service\test\SellerProductServiceTest.class
+com\infy\ekart\validator\test\SellerValidatorTest.class
+com\infy\ekart\service\test\CustomerProductServiceTest.class
